@@ -17,7 +17,7 @@ DARPA Mathematical Challenge 13 Submission
 - [Running BTUT](#running-the-system)
 - [Manual Run Commands](#-manual-run-commands)
 - [Mathematical Foundations](https://github.com/direnk/btut-darpa-submission/blob/main/docs/btut_math.pdf)
-- [Ethics and Compliance]([#ethics-and-compliance](https://github.com/direnk/btut-darpa-submission/blob/main/ETHICS.md))
+- [Ethics and Compliance](https://github.com/direnk/btut-darpa-submission/blob/main/ETHICS.md)
 - [Citation](https://github.com/direnk/btut-darpa-submission/blob/main/CITATION.cff)
 
 ---
