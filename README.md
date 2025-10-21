@@ -54,31 +54,31 @@ To execute all tests and visualize results:
 ## 🔧 Manual Run Commands
 
 ```bash
-# Randomized Parameter Sweep
+### Randomized Parameter Sweep
 python btut_random_sweep.py --nodes 50000 --iterations 2000 --kernel_tau 0.45 --latent_scale 1.0
 
-# Scaling Validation
+### Scaling Validation
 python btut_scaling_test.py --min_nodes 1000 --max_nodes 1000000 --scaling_factor 10
 
-# Diagnostics and Sensitivity
-python btut_diagnostics.py --alpha 1.45 --beta 0.40 --runs 20
+### Diagnostics and Sensitivity
+python btut_diagnostics.py --alpha 1.45 --tau 0.40 --reps 20
 
-# Hybrid Convergence
+### Hybrid Convergence
 python btut_diagnostics.py --hybrid True --steps 2500
 
-# Animation Generation
+### Animation Generation
 python btut_animate.py --source diagnostics_var_1.45_0.40.json --fps 15 --duration 20
 
-# Custom Kernel Test
+### Custom Kernel Test
 python btut_random_sweep.py --nodes 20000 --kernel_tau 0.3 --latent_scale 1.5 --log_intensity 2.2 --save_custom True
 
-# Real-Time Visualization
+### Real-Time Visualization
 python btut_random_sweep.py --nodes 5000 --iterations 1000 --visualize True
 
-# Reproducibility Check
+### Reproducibility Check
 python btut_random_sweep.py --nodes 10000 --seed 42 --kernel_tau 0.5 --latent_scale 0.8
 
-# Export All Results
+### Export All Results
 zip -r BTUT_results_$(date +%Y%m%d_%H%M%S).zip results diagnostics
 
 
