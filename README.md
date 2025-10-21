@@ -14,11 +14,11 @@ DARPA Mathematical Challenge 13 Submission
 ## Table of Contents
 - [Overview](#overview)
 - [Project Files](#project-files)
-- [Running BTUT](#running-btut)
+- [Running BTUT](#running-the-system)
 - [Manual Run Commands](#-manual-run-commands)
-- [Mathematical Foundations](#mathematical-foundations)
-- [Ethics and Compliance](#ethics-and-compliance)
-- [Citation](#citation)
+- [Mathematical Foundations](https://github.com/direnk/btut-darpa-submission/blob/main/docs/btut_math.pdf)
+- [Ethics and Compliance]([#ethics-and-compliance](https://github.com/direnk/btut-darpa-submission/blob/main/ETHICS.md))
+- [Citation](https://github.com/direnk/btut-darpa-submission/blob/main/CITATION.cff)
 
 ---
 
