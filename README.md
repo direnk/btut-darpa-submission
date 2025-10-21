@@ -1,5 +1,5 @@
 # Bivariate Trajectory–Undercurrent Theory (BTUT)
-[![BTUT Automated Validation](https://github.com/direnkumaratilleke/btut-darpa-submission/actions/workflows/btut_autotest.yml/badge.svg?branch=main)](https://github.com/direnkumaratilleke/btut-darpa-submission/actions/workflows/btut_autotest.yml)
+[![BTUT Automated Validation](https://github.com/direnk/btut-darpa-submission/actions/workflows/btut_autotest.yml/badge.svg?branch=main)](https://github.com/direnk/btut-darpa-submission/actions/workflows/btut_autotest.yml)
 
 ## Overview
 
