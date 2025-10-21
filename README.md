@@ -6,6 +6,8 @@ BTUT (Bivariate Trajectory–Undercurrent Theory) is a scalable, kernel-based ga
 
 This repository contains all code, data, and visualizations associated with the BTUT simulations. The model achieves linear scaling across millions to trillions of agents and provides convergence without PDE bottlenecks.
 
+![BTUT Automated Validation](https://github.com/direnkumaratilleke/btut-darpa-submission/actions/workflows/btut_autotest.yml/badge.svg)
+
 ---
 
 ## Project Files
