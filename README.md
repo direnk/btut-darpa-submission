@@ -1,5 +1,8 @@
 # Bivariate Trajectory–Undercurrent Theory (BTUT)
 [![BTUT Automated Validation](https://github.com/direnk/btut-darpa-submission/actions/workflows/btut_autotest.yml/badge.svg?branch=main)](https://github.com/direnk/btut-darpa-submission/actions/workflows/btut_autotest.yml)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)
+![Last Updated](https://img.shields.io/github/last-commit/direnk/btut-darpa-submission)
 
 ## Overview
 
