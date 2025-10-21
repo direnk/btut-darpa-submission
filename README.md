@@ -10,6 +10,7 @@ DARPA Mathematical Challenge 13 Submission
 **Affiliation:** Independent Researcher, University of North Carolina  
 **Disclaimer:** This repository is made public for academic transparency and DARPA Challenge 13 evaluation purposes.  
 All content © 2025 Diren Kumaratilleke. Use permitted under the terms of the LICENSE file.
+
 **Acknowledgment:**  
 This work was developed with assistance from OpenAI’s GPT-5 model, which supported the formal articulation, documentation, and structure of the BTUT framework based on my original theoretical intuition and design.
 
