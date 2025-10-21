@@ -82,6 +82,10 @@ python btut_random_sweep.py --nodes 10000 --seed 42 --kernel_tau 0.5 --latent_sc
 ### Export All Results
 zip -r BTUT_results_$(date +%Y%m%d_%H%M%S).zip results diagnostics
 
+---
+**Disclaimer:** This repository is made public for academic transparency and DARPA Challenge 13 evaluation purposes.  
+All content © 2025 Diren Kumaratilleke. Use permitted under the terms of the LICENSE file.
+
 
 
 
