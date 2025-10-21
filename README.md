@@ -16,6 +16,7 @@ DARPA Mathematical Challenge 13 Submission
 - [Project Files](#project-files)
 - [Running BTUT](#running-the-system)
 - [Manual Run Commands](#-manual-run-commands)
+- [Intuition Behind BTUT](./docs/BTUT%20Intuition%20and%20Process.docx)
 - [Mathematical Foundations](https://github.com/direnk/btut-darpa-submission/blob/main/docs/btut_math.pdf)
 - [Ethics and Compliance](https://github.com/direnk/btut-darpa-submission/blob/main/ETHICS.md)
 - [Citation](https://github.com/direnk/btut-darpa-submission/blob/main/CITATION.cff)
