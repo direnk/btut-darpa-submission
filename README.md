@@ -13,9 +13,9 @@ DARPA Mathematical Challenge 13 Submission
 
 ## Table of Contents
 - [Overview](#overview)
-- [Key Concepts](#key-concepts)
+- [Project Files](#project-files)
 - [Running BTUT](#running-btut)
-- [Results and Validation](#results-and-validation)
+- [Manual Run Commands](#-manual-run-commands)
 - [Mathematical Foundations](#mathematical-foundations)
 - [Ethics and Compliance](#ethics-and-compliance)
 - [Citation](#citation)
