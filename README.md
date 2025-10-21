@@ -9,6 +9,19 @@ DARPA Mathematical Challenge 13 Submission
 **Author:** Diren Kumaratilleke  
 **Affiliation:** Independent Researcher, University of North Carolina  
 
+---
+
+## Table of Contents
+- [Overview](#overview)
+- [Key Concepts](#key-concepts)
+- [Running BTUT](#running-btut)
+- [Results and Validation](#results-and-validation)
+- [Mathematical Foundations](#mathematical-foundations)
+- [Ethics and Compliance](#ethics-and-compliance)
+- [Citation](#citation)
+
+---
+
 ## Overview
 
 BTUT (Bivariate Trajectory–Undercurrent Theory) is a scalable, kernel-based game theory framework designed to model dynamic convergence across large-scale agent systems. It replaces static Nash equilibria and mean-field approximations with a dynamic flow equilibrium that balances trajectories (visible actions) and undercurrents (latent pressures).
