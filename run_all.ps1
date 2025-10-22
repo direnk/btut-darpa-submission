@@ -19,3 +19,13 @@ py btut_animate.py --mode phase
 # Zip results
 Compress-Archive -Path plots\* -DestinationPath results_zip\BTUT_results_$(Get-Date -Format "yyyyMMdd_HHmmss").zip -Force
 Write-Host "✅ All tasks complete. Results stored in results_zip." -ForegroundColor Green
+
+# ✅ Auto-zip results
+$timestamp = Get-Date -Format "yyyyMMdd_HHmmss"
+$zipFolder = "results_zip"
+if (-not (Test-Path $zipFolder)) { New-Item -ItemType Directory -Path $zipFolder | Out-Null }
+
+$zipFile = "$zipFolder\BTUT_results_$timestamp.zip"
+Compress-Archive -Path plots\* -DestinationPath $zipFile -Force
+Write-Host "`n[✓] All results zipped to $zipFile`n"
+
